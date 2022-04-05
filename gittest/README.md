@@ -1,3 +1,6 @@
+## Management System
+React 교육용 입니당.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
