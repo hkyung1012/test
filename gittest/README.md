@@ -1,5 +1,5 @@
 ## Management System
-React 교육용 입니당.
+React 교육용 입니당!!!
 
 # Getting Started with Create React App
 
